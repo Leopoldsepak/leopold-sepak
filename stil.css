@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+   color: red ;
+   font-family: fantasy;
+   font-size: 20px;
+   line-height: 18px;
+   width: 500px;
+   background-color: lightblue;
+   padding: 20px;
+
+
+
+}
+h1, h2 {
+  font-family: inherit;
+  color: brown;
+  font-size: 50px;
+  background-color: lightblue;
+
+}
+
+span { color: green;}
+
+body{
+background-image:  url("osvrti/pexels-anni-roenkae-2457317.jpg");
+
+
+
+}
+
+
+
+}
